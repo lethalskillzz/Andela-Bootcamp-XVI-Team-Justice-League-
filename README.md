@@ -22,4 +22,4 @@ List of names for Andela bootcamp XVI (team justice league)
 19  Morolake Orekoya
 20  Liasu Hassan Temitope
 21  Ibrahim Abdulkadir
-22  Ata Tangban
+22  Ata Tangban 
