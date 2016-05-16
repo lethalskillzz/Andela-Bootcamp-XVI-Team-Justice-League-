@@ -11,4 +11,4 @@ List of names for Andela bootcamp XVI (team justice league)
 8   Oluwagbenga Aluko
 9   Paul Oluyege 
 10  Wilfred Airueghionmon
-11  Adeniyi Ramon
+11  Adeniyi Ramon 
