@@ -23,3 +23,4 @@ List of names for Andela bootcamp XVI (team justice league)
 20  Liasu Hassan Temitope
 21  Ibrahim Abdulkadir
 22  Ata Tangban 
+23  Bamgbose Omodemilade
