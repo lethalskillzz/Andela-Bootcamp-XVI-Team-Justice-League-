@@ -2,4 +2,5 @@
 List of names for Andela bootcamp XVI (team justice league)
 
 1	Richard Ekong
-
+2   Ajayi Abdulganiyy
+3   Chukwuma Ezumezu
